@@ -1,0 +1,43 @@
+*{
+    font-family: 'Ubuntu Mono', monospace ;
+    box-sizing: border-box;
+}
+
+body{
+    background: rgb(70, 142, 236);
+}
+
+header{
+    color: #fff;
+    padding: 15px;
+    font-size: 20px;
+    text-align: center;
+}
+
+header h1{
+    font-size: 30px;
+}
+
+section{
+    background: #fff;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 2px 3px black;
+    text-align: center;
+}
+
+footer{
+    color: #fff;
+    font-size: 15px;
+    text-align: center;
+}
+
+section div img{
+    width: 100px;
+    margin-top: 15px;
+    
+}
+
+
